@@ -19,3 +19,7 @@ mono_crash.*.json
 # System/tool-specific ignores
 .directory
 *~
+
+# Common IDE ignores
+/.idea/
+/.vscode/
