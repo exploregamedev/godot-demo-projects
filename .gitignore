@@ -1,6 +1,9 @@
 # Godot 4+ specific ignores
 .godot/
 
+# ignore jetbrains IDE meta files
+/.idea/
+
 # Godot-specific ignores
 .import/
 export.cfg

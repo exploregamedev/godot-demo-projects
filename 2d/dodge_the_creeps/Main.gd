@@ -1,6 +1,6 @@
 extends Node
 
-export(PackedScene) var mob_scene
+@export var mob_scene: PackedScene
 var score
 
 func _ready():
